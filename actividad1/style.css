@@ -1,0 +1,34 @@
+body {
+	background: #fff;
+	font-family: Helvetica;
+}
+
+.contenedor{
+	margin-top: 100px;
+	text-align: center;
+}
+
+input{
+	width: 40px;
+	height: 40px;
+	margin-bottom: 30px;
+	font-size: 2em;
+}
+
+button{
+	display: block;
+	margin: 20px auto;
+	padding: 10px 30px 10px 30px;
+	font-size: 1em;
+	border-style: none;
+	background: steelblue;
+	color: #fff;
+	cursor: pointer;
+}
+
+#resultado{
+	margin: auto;
+	height: 50px;
+	width: 10px;
+	border: 1px solid black;
+}
